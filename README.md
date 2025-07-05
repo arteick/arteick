@@ -25,9 +25,9 @@
 
 ## 📊 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=germynic31&show_icons=true&theme=radical&hide=issues)](https://github.com/germynic31)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=germynic31&show_icons=true&theme=radical&hide=issues)](https://github.com/arteick)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=germynic31&layout=compact&theme=radical)](https://github.com/germynic31)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=germynic31&layout=compact&theme=radical)](https://github.com/arteick)
 
 ## 📫 Let's Connect
 - ✉️ Email: kozlov.artem.dev@gmail.com
