@@ -1,6 +1,10 @@
 # Hi, I'm Artem 👋
 
-## 🚀 Python Backend Developer
+## Let's connect
+- ✉️ Email: kozlov.artem.dev@gmail.com
+- 📱 Telegram: [@arteic_tg](https://t.me/arteic_tg)
+
+## 🚀 Who am I? -> Python Backend Developer
 
 **Technologies & Tools:**
 
@@ -38,7 +42,3 @@
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=arteick&show_icons=true&theme=radical&hide=issues)](https://github.com/arteick)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arteick&layout=compact&theme=radical)](https://github.com/arteick)
-
-## 📫 Let's Connect
-- ✉️ Email: kozlov.artem.dev@gmail.com
-- 📱 Telegram: [@arteic_tg](https://t.me/arteic_tg)
