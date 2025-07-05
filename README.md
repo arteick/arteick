@@ -35,7 +35,7 @@
 
 ## 📊 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=arteick1&show_icons=true&theme=radical&hide=issues)](https://github.com/arteick)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=arteick&show_icons=true&theme=radical&hide=issues)](https://github.com/arteick)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arteick&layout=compact&theme=radical)](https://github.com/arteick)
 
